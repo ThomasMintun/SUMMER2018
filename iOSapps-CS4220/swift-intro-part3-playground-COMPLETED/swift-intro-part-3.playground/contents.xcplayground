@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Structs'/>
+        <page name='Exercise 1'/>
+        <page name='Classes, Protocols'/>
+        <page name='Value &amp; Reference Types'/>
+        <page name='Exercise 2'/>
+    </pages>
+</playground>

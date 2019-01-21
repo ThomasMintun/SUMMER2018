@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Dictionaries'/>
+        <page name='Exercise 1'/>
+        <page name='Optionals'/>
+        <page name='Exercise 2'/>
+        <page name='More on Functions'/>
+        <page name='Exercise 3'/>
+        <page name='Enums, Switch'/>
+        <page name='Exercise 4'/>
+    </pages>
+</playground>
